@@ -1,11 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/pomvox.png" width="96" alt="Pom" />
-
-# Pomvox eats your ums.
-
-Private voice dictation for macOS. Hold a key, talk, and clean text lands wherever you type.<br/>
-Your voice never leaves your Mac.
+<a href="https://www.pomvox.ai"><img src="https://raw.githubusercontent.com/pomvox/.github/main/profile/banner.png" alt="Pom, the Pomvox mascot, on a steno pad: Pomvox eats your ums." width="100%" /></a>
 
 [Website](https://www.pomvox.ai) · [Download](https://github.com/pomvox/pomvox/releases/latest/download/Pomvox.dmg) · [Docs](https://www.pomvox.ai/docs) · [Cleanup Engine](https://www.pomvox.ai/engine) · [Blog](https://www.pomvox.ai/blog)
 
